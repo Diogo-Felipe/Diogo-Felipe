@@ -1,8 +1,10 @@
 ### Hi there 👋
 
 ## About Me:
-professional programmer for 4 years.
+Professional programmer for 4 years.
+
 Computer Science undergraduate student in UNAMA.
+
 Also [OPA](https://github.com/Dappis) developer.
 
 - 🔭 I’m currently working on javascript, including Node.js, React.js and React-Native.

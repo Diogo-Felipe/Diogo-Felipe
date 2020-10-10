@@ -7,7 +7,7 @@ Developer at [Vizir Software Studio](https://vizir.com.br/)
 
 Computer Science undergraduate student in UNAMA.
 
-Also [OPA](https://github.com/Dappis) developer.
+Also [OPA](https://github.com/Dappis) ex-developer.
 
 - 🔭 I’m currently working on javascript, including Node.js, React.js and React-Native.
 - 🌱 I’m currently learning Redux, Python and improving my Jasmine knowledge.

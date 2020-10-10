@@ -3,7 +3,7 @@
 ## About Me:
 Professional programmer for 4 years.
 
-Developer at [Vizir Software Studio](https://github.com/Vizir)
+Developer at [Vizir Software Studio](https://vizir.com.br/)
 
 Computer Science undergraduate student in UNAMA.
 

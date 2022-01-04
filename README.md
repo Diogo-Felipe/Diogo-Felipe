@@ -3,11 +3,9 @@
 ## About Me:
 Professional programmer for 5 years.
 
-Developer at [Vizir Software Studio](https://vizir.com.br/)
+Developer at [Praxent](https://praxent.com/)
 
 Computer Science undergraduate student in UNAMA.
-
-Also [OPA](https://github.com/Dappis) ex-developer.
 
 - 🔭 I’m currently working on javascript, including Node.js, React.js and React-Native.
 - 🌱 I’m currently learning Redux, improving my Jest knowledge.

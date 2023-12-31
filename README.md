@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## About Me:
-Professional programmer for 7 years.
+Professional programmer with 7 years of experience.
 
 Developer at [CareCru](https://carecru.com/)
 
